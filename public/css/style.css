@@ -1,0 +1,13 @@
+.menubar{
+    background-color: #F0E68C;
+    height: 80px;
+    padding: 20px;
+}
+body{
+    background-color: red;
+}
+.box{
+    width: 270px;
+    height: 270px;
+    background-color: beige;
+}
